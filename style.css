@@ -305,7 +305,9 @@ section .title::after {
 }
 
 /* skills section styling */
-
+.game {
+  background-color: rgb(51, 6, 6) !important;
+}
 .skills .title::after {
   content: "what i know";
 }
